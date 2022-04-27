@@ -39,9 +39,9 @@ Sales director wants to know the performance of the company in various Indian st
 
 - Q3. Top 5 customers by revenue & sales quantity.
 
-- Q4. Top 5 products by revenue.
+- Q4. Top 5 Products by revenue.
   
-- Q5. Profit Margin by Market
+- Q5. Net Profit & Profit Margin by Market
 
 ### Approach - Project Planning & [Aims Grid](https://www.youtube.com/watch?v=6118I9HViuQ)
   
