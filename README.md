@@ -1,4 +1,4 @@
-<h1 align="center">Sales Insights - Data Analysis Project using Tableau & SQL <a href="https://public.tableau.com/app/profile/mrankitgupta" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/a768d6bf0a001f03327578ae12f8867e4056cbaf/tableau-software.svg" alt="tableau" width="55" height="40"/> </a> </h1>
+<h1 align="center">Sales Insights - Data Analysis using Tableau & SQL <a href="https://public.tableau.com/app/profile/mrankitgupta" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/a768d6bf0a001f03327578ae12f8867e4056cbaf/tableau-software.svg" alt="tableau" width="55" height="40"/> </a> </h1>
 
 **I am sharing India based Hardware company Sales Insights - A Data Analysis Project performed on Tableau & SQL in my journey into Data Science.** 
 
@@ -29,7 +29,7 @@ For more detials, refer: <code>[Data Analyst Roadmap](https://github.com/mrankit
 
 ## Project - 
   
-**[My IBM Cloud Project Link](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/c1b5b665-7e89-41e6-9aae-d6f184d4245d/view?access_token=d106bb6c980e568aa5a41613f5601f81c9be999faa295fb2f2b61321e2ecbf46)** 🔗
+**[My Tableau Dashboard Link](https://public.tableau.com/views/SalesInsights-DataAnalysisProject/Dashboard-RevenueAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link)** <a href="https://public.tableau.com/views/SalesInsights-DataAnalysisProject/Dashboard-RevenueAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/a768d6bf0a001f03327578ae12f8867e4056cbaf/tableau-software.svg" alt="tableau" width="40" height="20"/> </a>  🔗
  
   
 ## Related Projects:question: 👨‍💻 🛰️
